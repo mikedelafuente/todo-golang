@@ -5,7 +5,7 @@ import (
 	"net/http"
 
 	"weekendproject/todo/domain"
-	"weekendproject/todo/models"
+	"weekendproject/todo/domain/models"
 
 	"github.com/gorilla/mux"
 )

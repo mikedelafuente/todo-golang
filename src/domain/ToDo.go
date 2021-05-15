@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"sort"
 	"time"
-	"weekendproject/todo/models"
+	"weekendproject/todo/domain/models"
 )
 
 type ToDo struct {
