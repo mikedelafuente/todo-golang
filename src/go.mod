@@ -1,4 +1,4 @@
-module weekendproject.app/todo
+module weekendproject/todo
 
 go 1.16
 
